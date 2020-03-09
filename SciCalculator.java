@@ -5,6 +5,7 @@ public class SciCalculator {
     public static int oper = 0, counter = 0;
     public static double endRes = 0.0, avg = 0.0, totalValue = 0.0;
 
+    // Making this change for Lab 6, adding comment
     public static void main(String[] args) {
         mainMenu();
     }
